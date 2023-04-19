@@ -91,7 +91,7 @@ $(document).ready(function() {
             alert('Order Placed Successfully')
             localStorage.setItem('product-list', []);
 
-            location.assign('./thankyou.html');
+            location.assign('thankyou.html');
         })
     })
 })
