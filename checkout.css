@@ -91,3 +91,7 @@
     color: rgba(0, 0, 0, 0.8);
     color: white;
 }
+#btn-text{
+text-decoration:none;
+    color:white;
+}
